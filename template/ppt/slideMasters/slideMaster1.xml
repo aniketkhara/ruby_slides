@@ -274,7 +274,7 @@
         <a:spcBef>
           <a:spcPct val="20000"/>
         </a:spcBef>
-        <a:buFont charset="0" pitchFamily="34" typeface="Arial"/>
+        <a:buFont charset="0" pitchFamily="16" typeface="Arial"/>
         <a:buChar char="•"/>
         <a:defRPr kern="1200" sz="3200">
           <a:solidFill>
@@ -289,7 +289,7 @@
         <a:spcBef>
           <a:spcPct val="20000"/>
         </a:spcBef>
-        <a:buFont charset="0" pitchFamily="34" typeface="Arial"/>
+        <a:buFont charset="0" pitchFamily="16" typeface="Arial"/>
         <a:buChar char="–"/>
         <a:defRPr kern="1200" sz="2800">
           <a:solidFill>
@@ -304,7 +304,7 @@
         <a:spcBef>
           <a:spcPct val="20000"/>
         </a:spcBef>
-        <a:buFont charset="0" pitchFamily="34" typeface="Arial"/>
+        <a:buFont charset="0" pitchFamily="16" typeface="Arial"/>
         <a:buChar char="•"/>
         <a:defRPr kern="1200" sz="2400">
           <a:solidFill>
@@ -319,7 +319,7 @@
         <a:spcBef>
           <a:spcPct val="20000"/>
         </a:spcBef>
-        <a:buFont charset="0" pitchFamily="34" typeface="Arial"/>
+        <a:buFont charset="0" pitchFamily="16" typeface="Arial"/>
         <a:buChar char="–"/>
         <a:defRPr kern="1200" sz="2000">
           <a:solidFill>
@@ -334,7 +334,7 @@
         <a:spcBef>
           <a:spcPct val="20000"/>
         </a:spcBef>
-        <a:buFont charset="0" pitchFamily="34" typeface="Arial"/>
+        <a:buFont charset="0" pitchFamily="16" typeface="Arial"/>
         <a:buChar char="»"/>
         <a:defRPr kern="1200" sz="2000">
           <a:solidFill>
@@ -349,7 +349,7 @@
         <a:spcBef>
           <a:spcPct val="20000"/>
         </a:spcBef>
-        <a:buFont charset="0" pitchFamily="34" typeface="Arial"/>
+        <a:buFont charset="0" pitchFamily="16" typeface="Arial"/>
         <a:buChar char="•"/>
         <a:defRPr kern="1200" sz="2000">
           <a:solidFill>
@@ -364,7 +364,7 @@
         <a:spcBef>
           <a:spcPct val="20000"/>
         </a:spcBef>
-        <a:buFont charset="0" pitchFamily="34" typeface="Arial"/>
+        <a:buFont charset="0" pitchFamily="16" typeface="Arial"/>
         <a:buChar char="•"/>
         <a:defRPr kern="1200" sz="2000">
           <a:solidFill>
@@ -379,7 +379,7 @@
         <a:spcBef>
           <a:spcPct val="20000"/>
         </a:spcBef>
-        <a:buFont charset="0" pitchFamily="34" typeface="Arial"/>
+        <a:buFont charset="0" pitchFamily="16" typeface="Arial"/>
         <a:buChar char="•"/>
         <a:defRPr kern="1200" sz="2000">
           <a:solidFill>
@@ -394,7 +394,7 @@
         <a:spcBef>
           <a:spcPct val="20000"/>
         </a:spcBef>
-        <a:buFont charset="0" pitchFamily="34" typeface="Arial"/>
+        <a:buFont charset="0" pitchFamily="16" typeface="Arial"/>
         <a:buChar char="•"/>
         <a:defRPr kern="1200" sz="2000">
           <a:solidFill>
